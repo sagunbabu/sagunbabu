@@ -11,7 +11,7 @@ I recently earned a degree in computer science, and I'm eager to begin working a
 * ✉️  You can contact me at [hello@sagunbabu.com.np](mailto:hello@sagunbabu.com.np)
 * 🧠  I'm learning React Native
 
-<a href="https://www.github.com/er-sba" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/sagunbabu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/er-sba?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
